@@ -17,7 +17,7 @@ Provisionner une infarstructure sur AWS cloud comprenant:
 
 Les etapes de construction du projet sont:
 
--creer les 5 modules (1 module en plus qui est le volume_attachement a ebs volume)
+-creer les 5 modules (1 module en plus qui est le volume_attachement a ebs volume) sont dans le dossier ./modules/
 - ebs1 , voleme EBS
 - ec21 , instance EC2
 - eip , elastic IP
